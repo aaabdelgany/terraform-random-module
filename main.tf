@@ -3,5 +3,5 @@ resource "random_string" "id" {
       uuid = uuid()
   }
 
-  length = var.string_length
+  length = var.string_length  
 }
