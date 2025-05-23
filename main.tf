@@ -5,6 +5,3 @@ resource "random_string" "id" {
 
   length = var.string_length
 }
- 
- 
- 
