@@ -3,3 +3,4 @@ variable "string_length" {
   description = "The length of the random string."
   default = 5
 }
+ 
